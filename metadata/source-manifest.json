@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/CLN.lsp",
+      "bytes": 30691,
+      "sha256": "a6640e70af15dd2575e9b2e3352ba8ed9229d64996fdf913e87b80b8f0107681",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "CLN",
+          "line": 1014
+        }
+      ]
+    }
+  ]
+}
